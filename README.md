@@ -1,7 +1,7 @@
 # 🤖 AI Face Detector
 
 A modern, responsive React application that uses face-api.js to perform real-time face detection, age estimation, and gender recognition directly in the browser.
-
+https://sunny-salamander-968faf.netlify.app/
 ## ✨ Features
 
 - **Real-time Face Detection**: Detect multiple faces in live video stream
